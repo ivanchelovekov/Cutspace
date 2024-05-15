@@ -4,4 +4,5 @@
 - HTML
 - SCSS
 - JS
+- BEM
 - Gulp
